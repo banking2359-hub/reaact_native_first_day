@@ -7,7 +7,7 @@
 #include <cctype>
 #include <iomanip>
 using namespace std;
-
+using std::string;
 struct Contact
 {
     string name, phone, email, address, notes;
